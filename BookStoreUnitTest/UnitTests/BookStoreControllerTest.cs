@@ -8,7 +8,7 @@ using Moq;
 using NUnit.Framework;
 using Services;
 
-namespace BookStoreUnitTest
+namespace BookStoreTest.UnitTests
 {
     [TestFixture]
     public class BookStoreControllerTest

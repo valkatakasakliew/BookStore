@@ -4,7 +4,7 @@ using NUnit.Framework;
 using Services;
 using System;
 
-namespace BookStoreUnitTest
+namespace BookStoreTest.UnitTests
 {
     [TestFixture]
     public class BookStoreServicesTest
